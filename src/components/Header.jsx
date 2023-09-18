@@ -9,9 +9,9 @@ const Header = () => {
   return (
     <div className='maindiv' >
         <div className='header__left'>
-            <Avatar className='avatar' sx={{ height: '60px', width: '60px' }}  src='./image/char3.png'  alt="Remy Sharp" />
+            <Avatar className='avatar' sx={{ height: '90px', width: '90px' }}  src='./image/char3.png'  alt="Remy Sharp" />
             <h1 className='name' >
-              Charlene
+              Charlene Silver Palma
             </h1>
         </div>
         <div className='buttons' >
