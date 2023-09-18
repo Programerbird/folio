@@ -1,0 +1,32 @@
+
+
+.maindiv{
+ display: flex;
+ justify-content:space-between;
+ background-color: red;
+
+ 
+
+}
+
+.header__left{
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+
+.buttons{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(9, 25, 25);
+  
+  
+  
+}
+
+.buttons__box{
+
+}
