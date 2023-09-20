@@ -1,0 +1,43 @@
+.mainBodydiv{
+    display: flex;
+    /* background-color: red; */
+    text-align: center;
+    justify-content: center;
+    
+    
+    
+}
+
+.Bodymiddle{
+     
+    display: flex;
+    flex-direction:column;
+    padding-top: 100px;
+    
+
+    
+}
+
+.title1{
+    color: aliceblue;
+    font-size: 110px;
+    font-family: 'Alkatra', cursive;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Carter One', cursive;
+font-family: 'Noto Sans Duployan', sans-serif;
+ 
+ 
+   
+    
+}
+
+.para1{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Carter One', cursive;
+font-family: 'Noto Sans Duployan', sans-serif;
+    
+}

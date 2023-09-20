@@ -1,0 +1,31 @@
+.waistwrapper{
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: center;
+    padding-top: 90px;
+    align-items: center;
+    text-align: center;
+   
+
+.waistbody{
+    
+
+}
+
+.pic1{
+    height: 600px;
+    /* height: 600px; */
+ 
+    
+}
+
+.title1{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.para1{
+    color: aliceblue;
+    text-align: center;
+}
